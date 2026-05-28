@@ -1,0 +1,252 @@
+Create a world-class premium gym website called IRONVAULT for my portfolio showcase.
+The goal is NOT to make it look like a cheap fitness template.
+It should feel like a luxury modern fitness brand — minimal, cinematic, powerful, and elite.
+
+Design inspiration:
+
+Airbnb-level cleanliness
+Apple-level spacing and typography
+High-end fitness branding like Equinox or Gymshark campaigns
+Dark aesthetic with subtle premium gradients
+Minimalist but emotionally powerful
+Smooth microinteractions everywhere
+
+Tech Stack:
+
+React + Tailwind CSS
+Framer Motion for animations
+Fully responsive
+Modern component architecture
+Fast loading
+Glassmorphism used VERY subtly
+Use reusable sections/components
+
+Overall vibe:
+
+Black / charcoal / off-white palette
+Bold typography
+Large spacing
+Clean grid layouts
+Luxury performance feeling
+No clutter
+No generic gym UI
+Should look like a startup worth millions
+
+IMPORTANT:
+This is for my portfolio.
+The website should immediately make clients think:
+“Damn, this guy designs premium brands.”
+
+==================================================
+WEBSITE STRUCTURE
+HERO SECTION
+Fullscreen cinematic hero
+Background video/image with dark overlay
+Huge bold headline:
+“Forge Your Strongest Self”
+Subheadline:
+“Luxury fitness experience designed for discipline, strength, and transformation.”
+CTA buttons:
+Start Training
+Explore Programs
+
+Animations:
+
+Text fade-up stagger animation
+Buttons animate on hover
+Smooth parallax scroll effect
+Slight floating glow behind CTA
+
+Navbar:
+
+Transparent initially
+Becomes glassmorphism on scroll
+Smooth hover underline animations
+Logo: IRONVAULT
+==================================================
+2. FEATURE SECTION
+
+Create 3 premium feature cards:
+
+Elite Coaching
+Smart Recovery
+Performance Nutrition
+
+Card style:
+
+Minimal dark cards
+Soft hover elevation
+Animated gradient borders
+Icon animations on hover
+Smooth scaling effect
+==================================================
+3. TRANSFORMATION STATS SECTION
+
+Luxury stats section with animated counters:
+
+12K+ Members
+98% Satisfaction
+250+ Trainers
+24/7 Access
+
+Add:
+
+Scroll-triggered counter animation
+Subtle glowing separators
+Smooth reveal transitions
+==================================================
+4. PROGRAMS SECTION
+
+Create premium training program cards:
+
+Strength Training
+Fat Loss
+Athlete Performance
+Functional Fitness
+
+Each card should have:
+
+Full-width image
+Dark overlay
+Hover zoom effect
+Animated CTA arrow
+
+Make layout asymmetrical and visually modern.
+
+==================================================
+5. TESTIMONIALS SECTION
+
+Luxury testimonial carousel:
+
+Minimal cards
+Clean typography
+Smooth auto-scroll
+Profile images
+Star ratings
+Fade transitions
+==================================================
+6. TRAINERS SECTION
+
+Modern trainer showcase:
+
+Monochrome premium portraits
+Hover reveal effects
+Social media icons
+Animated bio reveal
+==================================================
+7. APP EXPERIENCE SECTION
+
+Show a modern mobile app mockup:
+Features:
+
+Workout tracking
+Meal plans
+Live classes
+AI fitness insights
+
+Add:
+
+Floating phone animation
+Glow gradients
+Motion effects
+==================================================
+8. CTA SECTION
+
+Large premium CTA block:
+Headline:
+“Discipline Creates Legends”
+
+Button:
+“Join IRONVAULT”
+
+Add:
+
+Ambient animated gradient background
+Smooth hover interactions
+Minimal particles/light effects
+==================================================
+9. FOOTER
+
+Minimal luxury footer:
+
+Social links
+Navigation
+Contact
+Dark elegant styling
+==================================================
+ANIMATION REQUIREMENTS
+
+Use Framer Motion heavily but tastefully:
+
+Fade-up on scroll
+Stagger animations
+Smooth page transitions
+Hover scaling
+Animated glowing borders
+Floating elements
+Parallax sections
+Smooth image zoom
+Magnetic buttons
+Cursor glow effect
+
+Animations should feel:
+
+smooth
+expensive
+cinematic
+intentional
+
+NOT flashy or childish.
+
+==================================================
+TYPOGRAPHY
+
+Use modern premium fonts like:
+
+Inter
+Satoshi
+General Sans
+Neue Montreal
+
+Typography style:
+
+Bold hero text
+Tight line heights
+Large headings
+Elegant spacing hierarchy
+==================================================
+EXTRA PREMIUM DETAILS
+
+Add:
+
+Smooth scrolling
+Custom loading animation
+Grain/noise texture overlay
+Subtle glow effects
+Elegant dividers
+Dark luxury shadows
+Minimal iconography
+==================================================
+IMPORTANT DESIGN RULES
+
+DO NOT:
+
+use generic gym templates
+overcrowd sections
+use bright neon colors
+use cheesy fitness imagery
+use too many colors
+use bulky cards
+
+FOCUS ON:
+
+premium feel
+whitespace
+typography
+motion
+visual hierarchy
+modern startup aesthetic
+emotional impact
+
+The final result should look like:
+“A premium fitness startup designed by an elite Silicon Valley design agency.”

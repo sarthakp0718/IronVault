@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "IRONVAULT"
+version = "1.0.0"
+id = "artifacts/ironvault"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 21417
+
+[services.development]
+run = "pnpm --filter @workspace/ironvault run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/ironvault", "run", "build" ]
+publicDir = "artifacts/ironvault/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "21417"
+BASE_PATH = "/"

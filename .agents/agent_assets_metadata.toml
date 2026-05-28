@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "-2jE09oqXzMbN6FzZl8A1"
+uri = "file://artifacts/ironvault/public/images/hero-bg.png"
+type = "image"
+title = "Cinematic gym interior hero"
+
+[[generated]]
+id = "heS3ko46Y-HRvIzfws9b0"
+uri = "file://artifacts/ironvault/public/images/program-strength.png"
+type = "image"
+title = "Strength training program"
+
+[[generated]]
+id = "5AcLvE6Tik8QqIr0qoeYr"
+uri = "file://artifacts/ironvault/public/images/program-fatloss.png"
+type = "image"
+title = "Fat loss program"
+
+[[generated]]
+id = "pNseCX_zp5IxajRjrCEBp"
+uri = "file://artifacts/ironvault/public/images/program-athlete.png"
+type = "image"
+title = "Athlete performance"
+
+[[generated]]
+id = "u7M24Qq-sLHjf2Dy3Rw5q"
+uri = "file://artifacts/ironvault/public/images/program-functional.png"
+type = "image"
+title = "Functional fitness"
+
+[[generated]]
+id = "m0RlNy8Clh_kIujSaA_f8"
+uri = "file://artifacts/ironvault/public/images/trainer-1.png"
+type = "image"
+title = "Trainer portrait 1"
+
+[[generated]]
+id = "xMsd6SRi626DEMxox4F2q"
+uri = "file://artifacts/ironvault/public/images/trainer-2.png"
+type = "image"
+title = "Trainer portrait 2"
+
+[[generated]]
+id = "EqVCIlw22z08IlCMfOez3"
+uri = "file://artifacts/ironvault/public/images/trainer-3.png"
+type = "image"
+title = "Trainer portrait 3"
+
+[[generated]]
+id = "0n0W-axa2nxTCpK-vdbS8"
+uri = "file://artifacts/ironvault/public/images/avatar-1.png"
+type = "image"
+title = "Testimonial avatar 1"
+
+[[generated]]
+id = "z_QbnpBZd1HqTiL9cV7pM"
+uri = "file://artifacts/ironvault/public/images/avatar-2.png"
+type = "image"
+title = "Testimonial avatar 2"
